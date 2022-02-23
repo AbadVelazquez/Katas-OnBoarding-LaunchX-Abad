@@ -1,2 +1,2 @@
 # Katas-OnBoarding-LaunchX-Abad
-Katas realizadas del OnBoarding programa de LaunchX
+En esta repositorio se encuantas las katas ya realizadas del OnBoarding del programa de LaunchX impartida por InnovaccionVirtual powered by Microsoft
